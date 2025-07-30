@@ -1,0 +1,32 @@
+[4mWHOAMI[24m(1)                                                      User Commands                                                      [4mWHOAMI[24m(1)
+
+[1mNAME[0m
+       whoami - print effective user name
+
+[1mSYNOPSIS[0m
+       [1mwhoami [22m[[4mOPTION[24m]...
+
+[1mDESCRIPTION[0m
+       Print the user name associated with the current effective user ID.  Same as id [1m-un[22m.
+
+       [1m--help [22mdisplay this help and exit
+
+       [1m--version[0m
+              output version information and exit
+
+[1mAUTHOR[0m
+       Written by Richard Mlynarik.
+
+[1mREPORTING BUGS[0m
+       GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+       Report any translation bugs to <https://translationproject.org/team/>
+
+[1mCOPYRIGHT[0m
+       Copyright © 2025 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
+       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.
+
+[1mSEE ALSO[0m
+       Full documentation <https://www.gnu.org/software/coreutils/whoami>
+       or available locally via: info '(coreutils) whoami invocation'
+
+GNU coreutils 9.7                                                April 2025                                                       [4mWHOAMI[24m(1)
