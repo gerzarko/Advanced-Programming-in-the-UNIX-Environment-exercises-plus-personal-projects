@@ -1,4 +1,4 @@
-CC=cc
+CC=cc -Wall -Werror -Wextra
 CFLAGS=-I.
 
 welcome: welcome.o welcomeFromMe.o 
