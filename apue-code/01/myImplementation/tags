@@ -1,3 +1,4 @@
 
 hi  welcomeFromMe.c /^hi() {$/
 // tag // filename //regex
+// to use go to the hi() and touch ctrl+} and to go back ctrl+t
