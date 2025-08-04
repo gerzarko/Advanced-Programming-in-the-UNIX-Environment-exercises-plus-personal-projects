@@ -24,7 +24,7 @@ int main(int argc, char *argv[]) {
   };
 
   while ((c = fgetc(FileOpenSrc)) != EOF) {
-    if (putc(c, FileOpenDes)) {
+    if (putc(c, FileOpenDes) == EOF) {
       fprintf(stderr, "Unable to write: %c\n", c);
       exit(EXIT_FAILURE);
     };
