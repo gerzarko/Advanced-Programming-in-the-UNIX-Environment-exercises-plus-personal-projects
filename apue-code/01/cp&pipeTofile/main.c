@@ -30,5 +30,8 @@ int main(int argc, char *argv[]) {
     };
   }
 
+  fclose(FileOpenSrc);
+  fclose(FileOpenDes);
+
   return EXIT_SUCCESS;
 }
